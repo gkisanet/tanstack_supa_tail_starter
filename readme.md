@@ -16,7 +16,6 @@ This manual explains why and how to set up an individual `.env` file to securely
     ```
     SUPABASE_URL=https://your-project.supabase.co
     SUPABASE_ANON_KEY=your-anonymous-key
-
     ```
     Replace the sample values with your actual Supabase credentials.
 
